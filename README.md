@@ -1,15 +1,26 @@
-# Cheminformatics & AIDD Practice Portfolio
-> Bioinformatics / Cheminformatics / AI-Driven Drug Discovery
-Background: Biochemistry and Molecular Biology Master
-Wet lab experience: molecular cloning, protein purification, ELISA, WB
-3 years pharmaceutical lab experience | 11 years LIMS implementation & scientific data workflow
-Skill stack: Python, Pandas, RDKit, Scikit-learn, XGBoost, AutoDock-GPU, ColabFold, RFdiffusion
-Focus: dataset curation, QSAR, virtual screening, AI generative model application for small molecule & peptide discovery
+# Cheminformatics & AIDD Portfolio
+Python / RDKit / Cheminformatics / AI-Driven Drug Discovery
 
-## Project list
-1. EGFR LBDD QSAR pipeline: ChEMBL bioactivity curation, pIC50 modelling
-2. SBDD virtual screening demo based on AlphaFold predicted structure
-3. RFdiffusion ligand / RFpeptide generation demo for PPI target
+## About Me
+Master of Biochemistry and Molecular Biology
+- Wet lab background: molecular cloning, protein purification, ELISA, Western blot
+- 3 years of small molecule pharmaceutical lab experience
+- 11 years LIMS product support & on-site implementation
+- Core advantage: bridge experimental screening, lab data workflow and AIDD modelling; focus on high-quality dataset curation, chemical informatics pipeline and result interpretation
 
-## Core strength
-Connect experimental screening, lab data system and AIDD modelling; focus on high-quality dataset construction and result interpretation.
+🛠️ Skill Stack
+Python, Pandas, RDKit, Scikit-learn, XGBoost
+AutoDock-GPU, ColabFold
+Data curation, QSAR modelling, virtual screening, generative AI model application
+
+## Projects
+1. **EGFR LBDD QSAR Pipeline** ✅ Completed
+ChEMBL bioactivity data cleaning, SMILES standardization, pIC50 calculation, Morgan fingerprint and XGBoost activity prediction.
+
+2. **SBDD Virtual Screening Demo (PD-L1)** 📝 In progress
+ColabFold protein structure prediction + AutoDock-GPU molecular docking & enrichment analysis.
+
+3. **RFdiffusion Ligand / RFpeptide Design Demo** 📝 In progress
+PPI pocket-conditioned molecule & peptide generation, rescoring by docking.
+
+## Contact
